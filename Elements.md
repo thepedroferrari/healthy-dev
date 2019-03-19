@@ -58,7 +58,7 @@ Vitamin B5, also called pantothenic acid, is one of the most important vitamins 
 It is an electrolyte that counteracts the effects of sodium, helping to maintain consistent blood pressure. Potassium is also important for maintaining the balance of acids and bases in the body. Bases are alkalis that have not yet dissolved in water.
 
 ##  Chloride
- Chloride is one of the most important electrolytes in the blood. It helps keep the amount of fluid inside and outside of your cells in balance. It also helps maintain proper blood volume, blood pressure, and pH of your body fluids.
+Chloride is one of the most important electrolytes in the blood. It helps keep the amount of fluid inside and outside of your cells in balance. It also helps maintain proper blood volume, blood pressure, and pH of your body fluids.
 
 ##  Calcium
 calcium is key for the health of your bones and teeth, but it also affects your muscles, hormones, nerve function, and ability to form blood clots. Plus, research has suggested—although not yet confirmed—that calcium may help other problems like PMS, high blood pressure, and possibly weight gain.
@@ -113,4 +113,3 @@ Ginkgo improves blood flow to the brain and acts as an antioxidant. These effect
 
 ##  Curcumin
 Curcumin is the main active ingredient in turmeric. It has powerful anti-inflammatory effects and is a very strong antioxidant. However, the curcumin content of turmeric is not that high.
-

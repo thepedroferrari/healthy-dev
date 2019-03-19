@@ -25,6 +25,3 @@ The capsaicin in cayenne peppers has metabolism-boosting properties. It helps to
 ##  Green Tea
 Green tea may help to aid weight loss. Green Tea Can Help You Lose Fat, Especially Harmful Abdominal Fat. Compounds in Green Tea Can Improve Brain Function. Antioxidants in Green Tea May Lower Your Risk of Some Types of Cancer. Green Tea Can Kill Bacteria, Which Improves Dental Health and Lowers Your Risk of Infection
 
-
-
-
