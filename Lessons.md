@@ -19,6 +19,7 @@
 ## Understand your body
 - [The brain-changing benefits of exercising [13:04]](https://www.ted.com/talks/wendy_suzuki_the_brain_changing_benefits_of_exercise)
 - [What makes muscles grow?](https://www.ted.com/talks/jeffrey_siegel_what_makes_muscles_grow)
+- [Why muscles get tired?](https://www.ted.com/talks/christian_moro_the_surprising_reason_our_muscles_get_tired)
 - [How does caffeine keep us awake?](https://www.youtube.com/watch?v=foLf5Bi9qXs)
 - [How sugar affects our brains](https://www.ted.com/talks/nicole_avena_how_sugar_affects_the_brain)
 - [How do carbohydrates impact your health? [5:10]](https://www.youtube.com/watch?v=wxzc_2c6GMg)
