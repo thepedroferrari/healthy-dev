@@ -14,6 +14,7 @@
 - [The benefits of good posture [4:12]](https://www.ted.com/talks/murat_dalkilinc_the_benefits_of_good_posture)
 - [Why some people find exercise harder than others](https://www.ted.com/talks/emily_balcetis_why_some_people_find_exercise_harder_than_others)
 - [The correct way to breath](https://www.youtube.com/watch?v=ldNnKVGxabA)
+- [Losing Motivation](https://www.youtube.com/watch?v=RQg_Q4HYYpg)
 
 
 ## Understand your body
